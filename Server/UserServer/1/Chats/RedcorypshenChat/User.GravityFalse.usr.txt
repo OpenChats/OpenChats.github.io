@@ -1,0 +1,5 @@
+              display error:
+        access: denied;
+        accessinfoyou: 
+     locked:
+   lockedby: {[Usr.OpChs("User.GravityFalse.usr")]}
