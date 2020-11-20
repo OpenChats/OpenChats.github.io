@@ -1,0 +1,18 @@
+startfocfg.
+
+startofvisiblecfg.
+
+ShowInfo : false;
+
+Banned : true;
+
+info(BannedInfo)
+{
+
+Time : 8minutes;
+
+};
+
+endofvisiblecfg.
+
+endofcfg.
